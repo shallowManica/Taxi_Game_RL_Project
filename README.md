@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # Taxi Game Reinforcement Learning Project
 
 ## Overview
