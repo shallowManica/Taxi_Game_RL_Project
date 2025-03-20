@@ -14,19 +14,8 @@ To get started with the Taxi Game Reinforcement Learning project, follow these s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shallowManica/CISC474.git
-   cd CISC474
-   ```
-
-2. Create a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-   ```
-
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
+   git clone https://github.com/shallowManica/Taxi_Game_RL_Project.git
+   cd Taxi_Game_RL_Project
    ```
 
 ## Dependencies
@@ -54,7 +43,7 @@ To run the notebook and observe the results of different reinforcement learning 
 
 ## Directory Structure
 ```plaintext
-CISC474/
+Taxi_Game_RL_Project/
 ├── group7.ipynb            # Jupyter Notebook with RL implementations
 ├── requirements.txt        # List of dependencies
 ├── README.md               # Project documentation
