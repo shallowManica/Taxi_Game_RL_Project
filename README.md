@@ -39,13 +39,12 @@ To run the notebook and observe the results of different reinforcement learning 
    jupyter notebook
    ```
 
-2. Open the `group7.ipynb` notebook file and run the cells to see the implementation and results of Q-learning, Monte Carlo, and DQN algorithms on the Taxi-v3 environment.
+2. Open the `taxiGame.ipynb` notebook file and run the cells to see the implementation and results of Q-learning, Monte Carlo, and DQN algorithms on the Taxi-v3 environment.
 
 ## Directory Structure
 ```plaintext
 Taxi_Game_RL_Project/
-├── group7.ipynb            # Jupyter Notebook with RL implementations
-├── requirements.txt        # List of dependencies
+├── taxiGame.ipynb            # Jupyter Notebook with RL implementations
 ├── README.md               # Project documentation
 └── LICENSE                 # License file
 ```
