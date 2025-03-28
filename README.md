@@ -46,9 +46,4 @@ To run the notebook and observe the results of different reinforcement learning 
 Taxi_Game_RL_Project/
 ├── taxiGame.ipynb            # Jupyter Notebook with RL implementations
 ├── README.md               # Project documentation
-└── LICENSE                 # License file
 ```
-
-## Acknowledgements
-- [OpenAI Gym](https://gym.openai.com/) - The platform for developing and comparing reinforcement learning algorithms.
-- [TensorFlow](https://www.tensorflow.org/) - The framework used for the DQN implementation.
