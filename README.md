@@ -1,7 +1,22 @@
 # Taxi Game Reinforcement Learning Project
 
 ## Overview
-The Taxi Game Reinforcement Learning Project is a comprehensive implementation of various reinforcement learning algorithms to solve the Taxi-v3 environment from OpenAI's Gym. This project includes implementations of Q-learning, Monte Carlo, and Deep Q-Network (DQN) algorithms, showcasing their application in a classic control task.
+### What is the Taxi Game?
+The goal of the Taxi game is to train an agent (the taxi) to pick up a passenger at one of four designated locations and drop them off at a specified destination, which is also one of these four locations. The taxi operates in a 5x5 grid world. 
+* **R, G, Y, B** represent the four pickup and drop-off locations.
+* The `:` characters represent open grid cells.
+* The `|` and `+` characters form the boundaries of the grid.
+
+The taxi and passenger start at random locations within this grid, and a destination location is also randomly chosen.
++---------+
+|R: | : :G|
+| : | : : |
+| : : : : |
+| | : | : |
+|Y| : |B: |
++---------+
+
+This Project is a comprehensive implementation of various reinforcement learning algorithms to solve the Taxi-v3 environment from OpenAI's Gym. This project includes implementations of Q-learning, Monte Carlo, and Deep Q-Network (DQN) algorithms, showcasing their application in a classic control task.
 
 ## Features
 - Implementation of **Q-learning**: A tabular method for reinforcement learning.
@@ -47,3 +62,4 @@ Taxi_Game_RL_Project/
 ├── taxiGame.ipynb            # Jupyter Notebook with RL implementations
 ├── README.md               # Project documentation
 ```
+
