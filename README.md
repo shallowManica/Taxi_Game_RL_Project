@@ -20,7 +20,7 @@ The taxi and passenger start at random locations within this grid, and a destina
 ```
 </pre>
 
-This Project is a comprehensive implementation of various reinforcement learning algorithms to solve the Taxi-v3 environment from OpenAI's Gym. This project includes implementations of Q-learning, Monte Carlo, and Deep Q-Network (DQN) algorithms, showcasing their application in a classic control task.
+This project is a comprehensive implementation of various reinforcement learning algorithms to solve the Taxi-v3 environment from OpenAI's Gym. This project includes implementations of Q-learning, Monte Carlo, and Deep Q-Network (DQN) algorithms, showcasing their application in a classic control task.
 
 ## Features
 - Implementation of **Q-learning**: A tabular method for reinforcement learning.
