@@ -8,6 +8,8 @@ The goal of the Taxi game is to train an agent (the taxi) to pick up a passenger
 * The `|` and `+` characters form the boundaries of the grid.
 
 The taxi and passenger start at random locations within this grid, and a destination location is also randomly chosen.
+<pre>
+```
 +---------+
 |R: | : :G|
 | : | : : |
@@ -15,6 +17,8 @@ The taxi and passenger start at random locations within this grid, and a destina
 | | : | : |
 |Y| : |B: |
 +---------+
+```
+</pre>
 
 This Project is a comprehensive implementation of various reinforcement learning algorithms to solve the Taxi-v3 environment from OpenAI's Gym. This project includes implementations of Q-learning, Monte Carlo, and Deep Q-Network (DQN) algorithms, showcasing their application in a classic control task.
 
